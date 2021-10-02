@@ -1,0 +1,1 @@
+Bu dosya içerisinde temel opencv metodları bulunmaktadır.
